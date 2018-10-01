@@ -11,6 +11,6 @@ public class GiroPlano : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Rotate(0,2,0);
+		transform.Rotate(0,0.5F,0);
 	}
 }
